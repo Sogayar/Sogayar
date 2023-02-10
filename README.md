@@ -1,19 +1,37 @@
-<h1>Hello, I'm Henrique Sogayar</h1> 
-<h3>I'm a second semester computer scientist. I believe in hard work and using my skills to help solve problems and achieve results for my clients. I am always seeking new challenges and learning opportunities to continue growing and evolving in my career. I am excited to connect and work with you.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5171F7&background=C8297D00&center=true&vCenter=true&width=435&lines=Hello+world;I'm+Henrique+Sogayar;Nice+to+meet+U)](https://git.io/typing-svg)
+
+
+<br><h3><br>I'm a second semester computer scientist. I believe in hard work and using my skills to help solve problems and achieve results for my clients. I am always seeking new challenges and learning opportunities to continue growing and evolving in my career. I am excited to connect and work with you.</b></h3>
 <div style="display: inline_block"><br>
  <div>
   <div>
-  <img align="right" alt="Soga-pic" height="225" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4E03AQGndnCKEX0J9A/profile-displayphoto-shrink_200_200/0/1663899384067?e=1681344000&v=beta&t=2BF5M5FvLjqO_6Crty9LD5paY0okoxw9uYwArrx1ilE">
+
 </div> 
 <div> 
   <img alt="Soga-stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=sogayar&show_icons=true&theme=dark&include_all_commits=true&count_private-true">
- </div>
- <div>
-  <img align="center" alt="Soga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Soga-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
 
   <a href="https://www.instagram.com/costelaa._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/BsRjgYD5jk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-sogayar-293bab1ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ 
+   ### Tools:
+  <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+
+  ### Studying in this moment:
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+ 
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sogayar}/count.svg" /></p> 
+<br></div>
+ 
+   <img align="center" alt="Soga-pic" height="225" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4E03AQGndnCKEX0J9A/profile-displayphoto-shrink_200_200/0/1663899384067?e=1681344000&v=beta&t=2BF5M5FvLjqO_6Crty9LD5paY0okoxw9uYwArrx1ilE">
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
