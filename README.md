@@ -32,6 +32,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sogayar}/count.svg" /></p> 
 <br></div>
  
-   <img align="center" alt="Soga-pic" height="225" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4E03AQGndnCKEX0J9A/profile-displayphoto-shrink_200_200/0/1663899384067?e=1681344000&v=beta&t=2BF5M5FvLjqO_6Crty9LD5paY0okoxw9uYwArrx1ilE">
- 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
