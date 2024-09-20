@@ -23,10 +23,15 @@
   <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  
+  
 
   ### Studying in this moment:
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+
  
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sogayar}/count.svg" /></p> 
