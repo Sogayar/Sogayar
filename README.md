@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5171F7&background=C8297D00&center=true&vCenter=true&width=435&lines=Hello+world;I'm+Henrique+Sogayar;Nice+to+meet+U)](https://git.io/typing-svg)
 
 
-<br><h3><br>I'm a student of computer science. I believe in hard work and using my skills to help solve problems and achieve results for my clients. I am always seeking new challenges and learning opportunities to continue growing and evolving in my career. I am excited to connect and work with you.</b></h3>
+<br><h3><br>I'm a student of computer science and a intern at Federal Court of Accounts (like GAO from Brazil). I believe in hard work and using my skills to help solve problems and achieve results for my clients. I am always seeking new challenges and learning opportunities to continue growing and evolving in my career. I am excited to connect and work with you.</b></h3>
 <div style="display: inline_block"><br>
  <div>
   <div>
