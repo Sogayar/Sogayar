@@ -23,14 +23,17 @@
   <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  
-  
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg"></code>
+
+  ### I usually use
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code> 
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 
   ### Studying in this moment:
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img width="4%" src="https://www.svgrepo.com/show/373980/plsql.svg"></code>
 
  
 <br><p align="centre"><b>Visitors Count</b></p>  
