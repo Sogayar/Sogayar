@@ -81,18 +81,14 @@ Sou **estudante de Ciência da Computação** e **estagiário no Tribunal de Con
 
 <p align="center">
   <a href="https://github.com/Sogayar/Codevasf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogayar&repo=Codevasf&theme=transparent"/>
+
   </a>
+ 
+
   <a href="https://github.com/Sogayar/BuscadorPessoas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogayar&repo=BuscadorPessoas&theme=transparent"/>
   </a>
- 
- <!-- Adicionar próximo projeto público
-  <a href="https://github.com/Sogayar/Sogayar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogayar&repo=Sogayar&theme=transparent"/>
-  </a>
 </p>
--->
 
 
 
