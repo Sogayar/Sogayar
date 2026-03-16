@@ -81,7 +81,7 @@ Sou **estudante de Ciência da Computação** e **estagiário no Tribunal de Con
 
 <p align="center">
   <a href="https://github.com/Sogayar/Codevasf">
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogayar&repo=Codevasf&theme=transparent"/>
   </a>
  
 
