@@ -48,7 +48,7 @@ Sou **estudante de Ciência da Computação** e **estagiário no Tribunal de Con
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" />
+<img height="48" src="https://camo.githubusercontent.com/f5ebafc96d3fea04148b6da17e57dd3942a28050cf6f59bb8959cb7121de5396/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4e65775f506f7765725f42495f4c6f676f2e737667" />
 <br>
 
 ### **Cloud & DevOps**  
