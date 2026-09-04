@@ -17,7 +17,7 @@
 ## 👋 Sobre mim
 <br>
 
-Sou **estudante de Ciência da Computação** e **estagiário no Tribunal de Contas da União (TCU)** — uma espécie de GAO do Brasil. Gosto de **resolver problemas reais** com código limpo, automações robustas e dados confiáveis. Minha filosofia é simples: **entregar valor rápido**, aprender continuamente e **documentar** bem.
+https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk — uma espécie de GAO do Brasil. Gosto de **resolver problemas reais** com código limpo, automações robustas e dados confiáveis. Minha filosofia é simples: **entregar valor rápido**, aprender continuamente e **documentar** bem.
 
 - 🔭 **Agora:** automações com **Python + Selenium**, extração de dados públicos (transparência), e dashboards com **Power BI**.
 - 📚 **Estudando:** **MySQL**, **PL/SQL**, estrutura de dados e boas práticas de engenharia.
