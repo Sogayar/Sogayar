@@ -3,28 +3,12 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+world!;Ol%C3%A1%2C+eu+sou+o+Henrique+Sogayar+%F0%9F%91%8B;CS+Student+%E2%80%A2+Intern+at+Brazil's+Federal+Court+of+Accounts;Automating+boring+things+with+Python+%26+Selenium;Always+learning%2C+always+shipping!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+world!;Ol%C3%A1%2C+eu+sou+o+Henrique+Sogayar+%F0%9F%91%8B;Automating+boring+things+with+Python+%26+Selenium;Always+learning%2C+always+shipping!)](https://git.io/typing-svg)
 
 <a href="https://github.com/sogayar?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/sogayar?style=flat&label=Followers"></a>
 <a href="https://github.com/sogayar"><img alt="stars" src="https://img.shields.io/github/stars/sogayar?style=flat&label=Stars"></a>
 
 </div>
-
-
----
-
-
-## 👋 Sobre mim
-<br>
-
-
-- 🔭 **Agora:** automações com **Python + Selenium**, extração de dados públicos (transparência), e dashboards com **Power BI**.
-- 📚 **Estudando:** **MySQL**, **PL/SQL**, estrutura de dados e boas práticas de engenharia.
-- 🛠️ **Interesses:** scraping responsável, auditoria de dados, pipelines ETL e bots úteis para o dia a dia do setor público.
-- 🤝 **Aberto a colaborar** em projetos e ideias que impactem a sociedade e me estimulem a aprender.
-<br>
-
----
 
 
 ## 🧰 Tech Stack 
